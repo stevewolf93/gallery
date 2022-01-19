@@ -6,6 +6,7 @@ div img{
   opacity: 0.5;
   filter: grayscale(100);
   background-color: rgb(230, 224, 212);
+  box-shadow: 3px 3px rgba(70, 70, 70, 0.5);
 }
 
 
@@ -51,4 +52,5 @@ img:hover {
   transform: rotate(0deg);
   opacity: 1;
   transition: 250ms;
+
 }
