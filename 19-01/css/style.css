@@ -1,9 +1,14 @@
+body{
+  background-image: url(../images/wood.jpg);
+}
+
+
 div img{
   width: 500px;
   height: 300px;
   border: 2px solid rgb(202, 202, 202);
   padding: 10px 10px 50px 10px;
-  opacity: 0.5;
+  opacity: 0.25;
   filter: grayscale(100);
   background-color: rgb(230, 224, 212);
   box-shadow: 3px 3px rgba(70, 70, 70, 0.5);
